@@ -1,0 +1,5 @@
+{
+  "name": "React Shop",
+  "description": "A modern e-commerce platform built with React and Tailwind CSS, featuring product listings, cart management, and role-based access for customers and administrators.",
+  "requestFramePermissions": []
+}
